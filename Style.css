@@ -18,3 +18,90 @@ audio {
 .blank {
 	height: 5vh;
 }
+
+@media screen and (min-width: 1000px) {
+body {
+	width: 100vw;
+	height: 100vh;
+	margin-left: 25px;
+	margin-right: 0px;
+	margin-top: 100px;
+	background-color: #5DBAAB;
+}
+
+.title {
+	vertical-align: top;
+	min-width: 30%;
+	font-size: 50px;
+}
+
+.left-arrow {
+	min-height: 50%;
+	min-width: 25%;
+	display: inline-block;
+	vertical-align: center;
+	background-color: #980000;
+}
+
+.test {
+	min-height: 50%;
+	min-width: 45%;
+	background-color: #999999;
+		display: inline-block;
+	vertical-align: center;
+	background-image: url("zion.jpg");
+}
+
+.right-arrow {
+	min-height: 50%;
+	min-width: 25%;
+	background-color: #999999;
+	display: inline-block;
+	vertical-align: bottom;
+	right: 1000px;
+	background-color: #419900;
+}
+
+.text {
+	background-color: #AD9E0F;
+	min-height: 10%;
+	font-size: 25px;
+}
+}
+@media screen and (min-width: 300px) {
+	body {
+	width: 100vw;
+	height: 100vh;
+	margin-left: 25px;
+	margin-right: 0px;
+	margin-top: 100px;
+	background-color: #5DBAAB;
+}
+}
+.test {
+	min-height: 50%;
+	min-width: 45%;
+	background-color: #999999;
+	vertical-align: center;
+	background-image: url("zion.jpg");
+}
+.text {
+	background-color: #AD9E0F;
+	min-height: 10%;
+	font-size: 25px;
+}
+.left-arrow {
+	min-height: 50%;
+	min-width: 25%;
+	display: inline-block;
+	vertical-align: center;
+	background-color: #980000;
+}
+.right-arrow {
+	min-height: 50%;
+	min-width: 25%;
+	background-color: #999999;
+	display: inline-block;
+	vertical-align: bottom;
+	right: 1000px;
+	background-color: #419900;
