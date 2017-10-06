@@ -51,9 +51,8 @@ body {
 	min-height: 50%;
 	min-width: 45%;
 	background-color: #999999;
-		display: inline-block;
+	display: inline-block;
 	vertical-align: center;
-	background-image: url("https://user-images.githubusercontent.com/23200000/31299985-1468e37e-aaa6-11e7-8299-de7dd768080a.jpg");
 }
 
 .right-arrow {
