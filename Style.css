@@ -84,9 +84,8 @@ title {
 .test {
 	min-height: 50%;
 	min-width: 45%;
-	background-color: #999999;
 	vertical-align: center;
-	background-image: url("zion.jpg");
+
 }
 .text {
 	background-color: #AD9E0F;
