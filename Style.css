@@ -20,7 +20,7 @@ audio {
 }
 
 h1 {
-	font-color: white;
+	color: white;
 }
 
 @media screen and (min-width: 1000px) {
