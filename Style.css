@@ -48,9 +48,8 @@ body {
 }
 
 .test {
-	min-height: 50%;
-	min-width: 45%;
-	background-color: #999999;
+	height: 50%;
+	width: 45%;
 	display: inline-block;
 	vertical-align: center;
 }
