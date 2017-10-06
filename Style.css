@@ -19,6 +19,10 @@ audio {
 	height: 5vh;
 }
 
+.test {
+	font-color: white;
+}
+
 @media screen and (min-width: 1000px) {
 body {
 	width: 100vw;
